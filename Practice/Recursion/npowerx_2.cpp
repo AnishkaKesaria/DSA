@@ -1,6 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// Time COmplexity - O(log x)
+// Space Complexity - O(log x)
+
 int power(int n, int x)
 {
     if(x==1) return n;
