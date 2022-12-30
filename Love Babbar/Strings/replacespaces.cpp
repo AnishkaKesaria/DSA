@@ -1,4 +1,8 @@
+//Brute force
+
 #include <bits/stdc++.h> 
+using namespace std; 
+
 string replaceSpaces(string &str)
 {
     string temp;
