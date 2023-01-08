@@ -3,7 +3,7 @@ using namespace std;
 
 bool isPresent(int arr[][], int target, int i, int j)
 {
-    for(int )
+    
 }
 
 int main()
@@ -22,7 +22,7 @@ int main()
     int target;
     cout<<"Enter target: ";
     if(isPresent(arr,target,i,j))
-        cout<<"Element Found;"
+        cout<<"Element Found";
     else cout<<"Element not found";
     return 0;
 }
